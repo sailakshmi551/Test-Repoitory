@@ -15,6 +15,7 @@ public class SplitString
 		String name = "Displaying 4 assets";
 		boolean validateassets = name.contains(subString);
 		System.out.println("Validating assets::"+validateassets);
+		System.out.println("Added a line");
 		
 				
 		
