@@ -35,6 +35,7 @@ public class Test
 	            break; 
 	        } 
 	        System.out.println(dayString); 
+			System.out.println("Hello");
 	    } 
 	}
 
